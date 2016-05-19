@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Restorante_Manager</string>
+    <string name="background_description">background</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
 </resources>
